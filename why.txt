@@ -1,0 +1,5 @@
+I'm interested in taking 320 because I'm super interested in statistics and applied mathematics.
+My main focus is on applications of applied math to engineering (like control theory),
+but basic data science is another area that will definitely be useful in the future.
+
+Not to mention it's a prerequisite for every machine learning course :P.
